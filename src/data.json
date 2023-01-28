@@ -1,0 +1,102 @@
+{
+    "title": "The Akatsuki",
+    "description": "A group of rogue ninja who seek to overthrow the Hidden Villages and rule the world.",
+    "members":[
+        {
+            "name": "Pain",
+            "rank": "Leader",
+            "village": "Hidden Rain",
+            "power": "Rinnegan",
+            "image": "Akatsuki/pain.png",
+            "ShadowImage": "Akatsuki/painShadow.png"
+        },
+        {
+            "name": "Konan",
+            "rank": "Member",
+            "village": "Hidden Rain",
+            "power": "Paper",
+            "image": "Akatsuki/konan.png",
+            "ShadowImage": "Akatsuki/konanShadow.png"
+        },
+        {
+            "name": "Tobi",
+            "rank": "Member",
+            "village": "Hidden Rain",
+            "power": "Rinnegan",
+            "image": "Akatsuki/tobi.jpeg",
+            "ShadowImage": "Akatsuki/tobiShadow.png"
+        },
+        {
+            "name": "Itachi",
+            "rank": "Member",
+            "village": "Hidden Leaf",
+            "power": "Sharingan",
+            "image": "Akatsuki/itachi.png",
+            "ShadowImage": "Akatsuki/itachiShadow.png"
+        },
+        {
+            "name": "Deidara",
+            "rank": "Member",
+            "village": "Hidden Stone",
+            "power": "Explosives",
+            "image": "Akatsuki/deidara.png",
+            "ShadowImage": "Akatsuki/deidaraShadow.png"
+        },
+        {
+            "name": "Hidan",
+            "rank": "Member",
+            "village": "Hidden Mist",
+            "power": "Jashinism",
+            "image": "Akatsuki/hidan.png",
+            "ShadowImage": "Akatsuki/hidanShadow.png"
+        },
+        {
+            "name": "Kakuzu",
+            "rank": "Member",
+            "village": "Hidden Mist",
+            "power": "Tattoos",
+            "image": "Akatsuki/kakuzu.png",
+            "ShadowImage": "Akatsuki/kakuzuShadow.png"
+        },
+        {
+            "name": "Zetsu",
+            "rank": "Member",
+            "village": "N/A",
+            "power": "N/A",
+            "image": "Akatsuki/zetsu.jpeg",
+            "ShadowImage": "Akatsuki/zetsuShadow.png"
+        },
+        {
+            "name": "Kisame",
+            "rank": "Member",
+            "village": "Hidden Mist",
+            "power": "Shark-o-ma",
+            "image": "Akatsuki/kisame.png",
+            "ShadowImage": "Akatsuki/kisameShadow.png"
+        },
+        {
+            "name": "Sasori",
+            "rank": "Member",
+            "village": "Hidden Sand",
+            "power": "Puppetry",
+            "image": "Akatsuki/sasori.png",
+            "ShadowImage": "Akatsuki/sasoriShadow.png"
+        },
+        {
+            "name": "Orochimaru",
+            "rank": "Member",
+            "village": "Hidden Leaf",
+            "power": "Serpent",
+            "image": "Akatsuki/orochimaru.png",
+            "ShadowImage": "Akatsuki/orochimaruShadow.png"
+        },
+        {
+            "name":"Juugo",
+            "rank": "Member",
+            "village": "Hidden Rain",
+            "power": "Seven Ninja SwardsMan",
+            "image": "Akatsuki/juzo.png",
+            "ShadowImage": "Akatsuki/juzoShadow.png"
+        }
+    ]
+}
